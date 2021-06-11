@@ -31,7 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="clock.png" alt="clock" width="450"/>
+<img src="clock.PNG" alt="clock" width="450"/>
 
 This is practice using graphics in Java.
 
